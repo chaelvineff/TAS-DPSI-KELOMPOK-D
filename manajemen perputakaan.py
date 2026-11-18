@@ -2,9 +2,10 @@ print("hello github!")
 print("Belajar push dan pull menggunakan VS code")
 print("mulyono")
 
-def menu_perpustakaan():
-    print("selamat datang di perpustakaan!")
-    print("1. daftar buku")
-    print("2. pinjam buku")
-    print("3. kembalian buku")
-    print("4. keluar")
+def menu_makanan():
+    print("Menu Makanan")
+    print("1. Coto PERSIB")
+    print("2. Babi Makassar")
+    print("3. Kwetiau Palembang")
+    print("4. Anjing Papua")
+    print("5. Daging Orang Jawa")
